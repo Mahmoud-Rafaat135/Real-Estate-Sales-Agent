@@ -1,0 +1,27 @@
+{
+  "demo_notice": "All company, project, unit, price, and availability data in this file are fictional and created only for a technical demonstration.",
+  "leads": [],
+  "viewing_appointments": [],
+  "tool_contracts": [
+    {
+      "name": "search_properties",
+      "purpose": "Filter structured inventory by area, budget, bedrooms, unit type, and availability."
+    },
+    {
+      "name": "get_property_details",
+      "purpose": "Return exact details for one property_id."
+    },
+    {
+      "name": "calculate_payment_plan",
+      "purpose": "Calculate down payment and simple monthly installment estimate from verified unit price and plan."
+    },
+    {
+      "name": "create_lead",
+      "purpose": "Save customer name, contact, budget, preferred area, and requirements after consent."
+    },
+    {
+      "name": "book_viewing",
+      "purpose": "Create a demo viewing appointment after confirming property, date, and customer contact."
+    }
+  ]
+}
